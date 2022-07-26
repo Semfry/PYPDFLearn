@@ -1,7 +1,7 @@
 from reportlab.pdfgen import canvas
 from reportlab.lib import colors
 from reportlab.lib.units import cm
-from reportlab.lib.pagesizes import A4
+from reportlab.lib.pagesizes import A4, letter, inch
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Table, TableStyle
 
@@ -27,12 +27,19 @@ data = [
     ["20", "21", "22", "23", "24"],
     ["30", "31", "32", "33", "34"],
 ]
-t = Table(data)
+t = Table(data, 5 * [0.4 * inch], 4 * [0.4 * inch])
 t.setStyle(
     TableStyle(
         [
-            ("BACKGROUND", (1, 1), (-2, -2), colors.green),
-            ("TEXTCOLOR", (0, 0), (1, -1), colors.red),
+            ("ALIGN", (1, 1), (-2, -2), "RIGHT"),
+            ("TEXTCOLOR", (1, 1), (-2, -2), colors.red),
+            ("VALIGN", (0, 0), (0, -1), "TOP"),
+            ("TEXTCOLOR", (0, 0), (0, -1), colors.blue),
+            ("ALIGN", (0, -1), (-1, -1), "CENTER"),
+            ("VALIGN", (0, -1), (-1, -1), "MIDDLE"),
+            ("TEXTCOLOR", (0, -1), (-1, -1), colors.green),
+            ("INNERGRID", (0, 0), (-1, -1), 0.25, colors.black),
+            ("BOX", (0, 0), (-1, -1), 0.25, colors.black),
         ]
     )
 )

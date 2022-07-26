@@ -13,6 +13,6 @@ git push
 
 git pull
 
-black -l 80 pdfgen
+black -l 80 pdfgen.py
 
 https://www.blog.pythonlibrary.org/2010/09/21/reportlab-tables-creating-tables-in-pdfs-with-python/
