@@ -8,10 +8,6 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Table, TableStyle
 my_text = "Hello\nThis is a <strong>multiline</strong> text\nHere we do not have to handle the positioning of each line manually"
 Elements = []
 
-# Text1 = (
-#    Paragraph(my_text.replace("\n", "<br />"), getSampleStyleSheet()["Normal"]),
-# )
-
 doc = SimpleDocTemplate(
     "hello.pdf",
     pagesize=A4,
