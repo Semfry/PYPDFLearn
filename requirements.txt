@@ -1,3 +1,4 @@
 reportlab
 black
 requests
+beautifulsoup4

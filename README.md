@@ -1,9 +1,13 @@
 # PYPDFLearn
-Learning reportlab for Python PDF
+# Learning reportlab for Python PDF
 
-python3 -m venv venv
+python -m venv venv
 
-source venv/bin/activate
+source venv/bin/activate # Linux
+
+cd C:\GitHub\PYPDFLearning\venv\Scripts # Windows
+
+.\activate
 
 pip install -r requirements.txt
 
