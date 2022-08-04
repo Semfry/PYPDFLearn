@@ -1,0 +1,1093 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "01fd8123bbcee1d1adb20e452917ca37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "08f5f3f75f9586371d4676ecd953b367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "0a9aa73eb676d76bfa92bd8300214299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "0b65fc3731fac7890ddbfccfd15ba356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Elderly",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "0e8da7fa6289d6dd3abdb26de6f8a250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "0fb555fa1c9d8ad20c38d729128a8d98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "16fd8d73df5bea3768e497e1b34503d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Elderly",
+        "Activity": "Dog",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "1aabd4a74afc133849ff1433303dfc2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Teenager",
+        "Activity": "Bike",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "1f85c25f3e96ed35d06b012642d0726b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Elderly",
+        "Activity": "Dog",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "21a833b56c4c9c9a3ebb1ead1af0e123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Teenager",
+        "Activity": "Run",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "30377f272d6b4a2845d6b50d101f2321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "3136748b660fb6343f66a8cbe23414de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "357a092d3d5d1a746ef814713be4477c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Elderly",
+        "Activity": "Dog",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "3740b83f6696a504d351f4607075b89a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "3dfb32b378d966f960ee88b6d4a020d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.149242,
+          50.379465
+        ],
+        "type": "Point"
+      },
+      "id": "3e272bec211af0ab3ccf8bb2a86f3f37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "4b5dbc24772fdaccd69892f2aeec7d4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "4d8789adc0184fe79c343f91eadfbbb9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.149242,
+          50.379465
+        ],
+        "type": "Point"
+      },
+      "id": "51075067084a84ae1b57bb55484547f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.149242,
+          50.379465
+        ],
+        "type": "Point"
+      },
+      "id": "532da976d344803077eb8899d4a2bf15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "54133b24a8c9f3cb7e9d8e882d1cdaa7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "58058092c36fedb5edf332680c1942b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Teenager",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "58671d4d0e19ce1691b3bc134c553b6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Elderly",
+        "Activity": "Dog",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "6133cbf6c7be4edcddd9c595514c8fe5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "6254c73f36a2aa17a3cf6283d101fc0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Teenager",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "63d59b82d1440d976c714241ed93c3d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Teenager",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "7be98ca075ff37491b68ea9470e721a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "7d5714389b43e0e45f31b918afdb0346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Bike",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "7ed46f614cf9a5d28eb6260cf88a2428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "851f555cd16450af658c946d70479362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 3",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.144466,
+          50.381245
+        ],
+        "type": "Point"
+      },
+      "id": "854ebf493d9546841e8822864abcaaf4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 3",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.144466,
+          50.381245
+        ],
+        "type": "Point"
+      },
+      "id": "86d49f6fd94d49c8388b3aa86855d4fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Child",
+        "Activity": "Pram",
+        "Gender": "Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "874129d73cb10bb02acb2dd633deb7f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Teenager",
+        "Activity": "Cycle",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "8796385eb3982b1b0b14dfe6c2d738ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.150945,
+          50.380662
+        ],
+        "type": "Point"
+      },
+      "id": "8937b963e41bbf985bb2dbbec07a0423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Elderly",
+        "Activity": "Dog",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "8ae4cad1808df6c5751ee25ed0ce14c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "8c7bd84c6f22dd477ecc423f3506b30b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "92bcb048b57bb7ecb2188c9224bde409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Child ",
+        "Activity": "Cycle",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "97acb17d7f94c57e3727db08263664f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "97f5bfed61d722768666f0735c55d56b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Run",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "acd96c4013541c27823c4007d8279c09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Teenager",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "ae0b480c4f9418aa7150aadc46e7a223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "ae0f634bc9b93307241199b86703dab8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.149242,
+          50.379465
+        ],
+        "type": "Point"
+      },
+      "id": "b36e77055cb51abe96d8ac521673f223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Elderly",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "ba533e388f2766e8775ba5af27a08384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 3",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.144466,
+          50.381245
+        ],
+        "type": "Point"
+      },
+      "id": "bec79cd86dffaf01f80f24109d9e58a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Teenager",
+        "Activity": "Walk",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "bf73f7fd469f25bb2f649652e28c9f75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "c239541d55278d4acc8101cc0cbeb327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Child",
+        "Activity": "Pram",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "c4425031e71ca1471d3b9b79751b3862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "c639a3bc45948ed715d34c66c290333f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 3",
+        "Age": "Adult",
+        "Activity": "Run",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.144466,
+          50.381245
+        ],
+        "type": "Point"
+      },
+      "id": "c7e718370b93f9be397886c03f945d9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "cec9f5cede627383495957a6e4a98034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 3",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.144466,
+          50.381245
+        ],
+        "type": "Point"
+      },
+      "id": "cee9cd1bedfbc47d232d0c8ac8f33c7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "d3650073fd0e4b565b983e638ab9e735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.147095,
+          50.379446
+        ],
+        "type": "Point"
+      },
+      "id": "dbe1f7372de5b984fc1fbbbee0130804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "dc57170626d5a7cd27107b00011a2ba7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "e2c8e651bbb2c5f8534e4289652d2604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.146644,
+          50.381767
+        ],
+        "type": "Point"
+      },
+      "id": "e43915e060acd3e2f998fefff757dae5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "e4e9691d100e98e8b2bfae6413aa6bca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 5",
+        "Age": "Adult",
+        "Activity": "Dog",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.152142,
+          50.389098
+        ],
+        "type": "Point"
+      },
+      "id": "e8789d275ba1b42ceda25577e5d42596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "ead56752c495521d10bb3503f2c84fd8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 4",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.143887,
+          50.388399
+        ],
+        "type": "Point"
+      },
+      "id": "ecb003ebc154ca6c0ae5a775ea847ff6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 1",
+        "Age": "Adult",
+        "Activity": "Walk",
+        "Gender": "Female "
+      },
+      "geometry": {
+        "coordinates": [
+          -4.149242,
+          50.379465
+        ],
+        "type": "Point"
+      },
+      "id": "ef735f0fbbd269c026d0ae071c64fb72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gate Name": "Gate 2",
+        "Age": "Adult",
+        "Activity": "Walking",
+        "Gender": "Male"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.153269,
+          50.383945
+        ],
+        "type": "Point"
+      },
+      "id": "f814730ca815e029e8974c2fb837c857"
+    }
+  ],
+  "type": "FeatureCollection"
+}
