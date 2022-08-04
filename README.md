@@ -21,6 +21,8 @@ black -l 80 pdfgen.py
 
 black -l 80 pdfgen2.py
 
+black -l 80 pdfgen2.py
+
 .\pdfgen
 
 .\pdfgen2
