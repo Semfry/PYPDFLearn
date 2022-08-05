@@ -2,3 +2,4 @@ reportlab
 black
 requests
 beautifulsoup4
+pdbpp
