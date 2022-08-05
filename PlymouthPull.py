@@ -63,8 +63,8 @@ P1 = Paragraph(
 plyParkTable = [
     ["Age", "Activity"],
     [P0, P1],
-    #["20", "21"],
-    #["30", "31"],
+    # ["20", "21"],
+    # ["30", "31"],
 ]
 
 plyP = Table(
@@ -74,7 +74,7 @@ plyP = Table(
         ("BOX", (0, 0), (-1, -1), 2, colors.black),
     ],
 )
-#plyP._argW[3] = 1.5 * inch
+# plyP._argW[3] = 1.5 * inch
 
 elements.append(plyP)
 
