@@ -21,7 +21,7 @@ black -l 80 pdfgen.py
 
 black -l 80 pdfgen2.py
 
-black -l 80 PlymouthPull.py
+black -l 80 plymouthpull.py
 
 .\pdfgen
 
