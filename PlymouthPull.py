@@ -26,6 +26,7 @@ plyData.close()
 
 # ----------------------------------------------------
 # Make PDF from data (ID, Age, Activity)
+# PDF SETTINGS BELOW
 
 # with open("parkarrivedata.json", "r") as parkJson:
 #     parkData = json.load(parkJson)
@@ -33,8 +34,6 @@ plyData.close()
 #     # print(parkData["features"][i]["properties"]["Age"])
 #     agesp = parkData["features"][i]["properties"]["Age"]
 #     activityp = parkData["features"][i]["properties"]["Activity"]
-
-# PDF SETTINGS BELOW
 
 # elements = []
 
@@ -45,7 +44,7 @@ plyData.close()
 #=======
 #elements = []
 
-styleSheet = getSampleStyleSheet()
+# styleSheet = getSampleStyleSheet()
 
 # P0 = Paragraph(
 #     agesp,
@@ -74,36 +73,6 @@ styleSheet = getSampleStyleSheet()
 # # plyP._argW[3] = 1.5 * inch
 
 # elements.append(plyP)
-# =======
-with open("parkarrivedata.json") as parkJson:
-    parkData = json.load(parkJson)
-
-summary = [["Age", "Activity"]]
-for i in range(len(parkData["features"])):
-    agesp = parkData["features"][i]["properties"]["Age"]
-
-    P0 = Paragraph(
-        agesp,
-        styleSheet["BodyText"],
-    )
-    activityp = parkData["features"][i]["properties"]["Activity"]
-
-    P1 = Paragraph(
-        activityp,
-        styleSheet["BodyText"],
-    )
-
-    summary.append([P0, P1])
-
-elements = []
-
-plyP = Table(
-    summary,
-    style=[
-        ("GRID", (0, 0), (-1, -1), 1, colors.black),
-        ("BOX", (0, 0), (-1, -1), 2, colors.black),
-    ],
-)
 
 # plyDoc.build(elements)
 
