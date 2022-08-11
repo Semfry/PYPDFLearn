@@ -3,3 +3,5 @@ black
 requests
 beautifulsoup4
 pandas
+pdbpp
+
