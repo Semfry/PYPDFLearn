@@ -4,4 +4,6 @@ requests
 beautifulsoup4
 pandas
 pdbpp
+ipykernel
+prompt_toolkit
 
