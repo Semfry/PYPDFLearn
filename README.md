@@ -9,10 +9,11 @@ cd C:\GitHub\PYPDFLearning\venv\Scripts # Windows
 
 .\activate
 
-# Jupyter notebooks fix
-pip uninstall pyreadline
-
 pip install -r requirements.txt
+
+# Jupyter notebooks fix
+modified py3k_compat.py by 8 string:
+return isinstance(x, collections.Callable) -> return isinstance(x, collections.abc.Callable)
 
 git commit -m "push message"
 
