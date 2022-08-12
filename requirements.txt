@@ -5,4 +5,4 @@ beautifulsoup4
 pandas
 pdbpp
 prompt_toolkit
-
+rich
