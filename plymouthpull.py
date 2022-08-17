@@ -75,13 +75,11 @@ P0 = 0
 P1 = 1
 with open("parkarrivepandas.json") as parkJson:
     parkData = json.load(parkJson)
-    pprint(parkData, expand_all=True)
+
     breakpoint()
     summary = [["Age", "Activity"]]
 
     for k, v in parkData.items():
-        pprint(k, expand_all=True)
-        pprint(v, expand_all=True)
         agesp = parkData["Age"]
         for count, age in agesp.items():
 
