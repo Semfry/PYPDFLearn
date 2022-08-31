@@ -25,7 +25,13 @@ black -l 80 pdfgen.py
 
 black -l 80 pdfgen2.py
 
-black -l 80 plymouthpull.py
+black -l 80 plymouthpdfgen.py
+
+black -l 80 getdataplymouth.py
+
+pipwin install gdal
+
+pipwin install fiona
 
 .\pdfgen
 

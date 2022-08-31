@@ -6,3 +6,11 @@ pandas
 pdbpp
 prompt_toolkit
 rich
+pipwin
+matplotlib
+folium
+mapclassif
+geopandas
+descartes
+shapely
+contextily
