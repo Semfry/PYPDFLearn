@@ -9,8 +9,8 @@ rich
 pipwin
 matplotlib
 folium
-mapclassif
 geopandas
 descartes
 shapely
 contextily
+mapclassify
